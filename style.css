@@ -1,0 +1,24 @@
+h1{
+background-color: blueviolet;
+font-size: 25px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+background-color: aqua;
+font-size: 14px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+span{
+    background-color: aqua;
+    font-size: 19;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+button{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
